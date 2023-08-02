@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Website" src="https://img.shields.io/website?down_message=Down&label=STAYFIT&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fdarvfit.netlify.app%2F">
+<img alt="Website" src="https://img.shields.io/website?down_message=Down&label=MY WEBSITE&style=for-the-badge&up_message=Online&url=https://dipeshadelkar.netlify.app/%2F">
