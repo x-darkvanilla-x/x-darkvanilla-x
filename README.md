@@ -3,7 +3,7 @@
 - 🔭 I’m currently a BSC IT student.
 - 🌱 I’m learning Full Stack Development.
 - 👯 I’m looking to collaborate on React projects.
-- 📫 Reach me on [Instagram](https://www.instagram.com/x-darkvanilla-x/).
+- 📫 Reach me on [Instagram](https://www.instagram.com/x_darkvanilla_x/).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm a gamer myself!
 
