@@ -1,18 +1,10 @@
 ### Hi there 👋
 
-<!--
-**x-darkvanilla-x/x-darkvanilla-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently a Second Year BSC IT student 
 - 🌱 I’m currently learning Full Stack Development 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on React Projects
+- 📫 How to reach me: instagram @x-darkvanilla-x
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a gamer myself
 
 <img alt="Website" src="https://img.shields.io/website?down_message=Down&label=MY CALCULATOR &style=for-the-badge&up_message=Online&url=https://dipeshadelkar.netlify.app">
