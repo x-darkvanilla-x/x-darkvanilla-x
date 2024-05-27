@@ -7,7 +7,7 @@ Hi 👋 My name is Dipesh Adelkar
 - 👯 I’m making the world better by PRs
 - 💬 Ask me about Technology & Finance
 - 📫 How to reach me: dipesh.adelkar@gmail.com
-- ⚡ Fun fact: I'm currently studying BSC in Information Technology
+- ⚡ Fun fact: I'm currently a Bachelor in Information Technology
 
 <h3 align="left">Languages:</h3>
 <p align="left">
