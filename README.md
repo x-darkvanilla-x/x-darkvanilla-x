@@ -1,4 +1,4 @@
-<a href=""><img src="https://images8.alphacoders.com/133/1336966.jpeg" width="100%" height="auto"/></a>
+<a href=""><img src="" width="100%" height="auto"/></a>
 <p align="center">
   <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -45,7 +45,7 @@ Hi 👋, I am **Dipesh Adelkar** an enthusiastic and ambitious full stack develo
 <img align="right" width="38%" src="https://w0.peakpx.com/wallpaper/600/322/HD-wallpaper-anime-boy-anime-boy-anime-boys-cute-cute-anime-boy-cute-anime-boys-lonely-sad-anime-boy-sad-anime-boys.jpg"/>
 
   <a href="https://github.com/x-darkvanilla-x"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=x-darkvanilla-x&theme=radical&title_color=ff3068?"></a>
-  <a href="https://github.com/Giingu"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=x-darkvanilla-x&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/x-darkvanilla-x"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=x-darkvanilla-x&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
 
 ## 📘 My top open source projects
 
