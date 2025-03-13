@@ -1,3 +1,4 @@
+<!--
 <p align="center">
   <a href=""><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -12,8 +13,9 @@
   <a href=""><img width="32px" alt="Patreon" title="Patreon" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-<br/>
 
+<br/>
+-->
 <p>
   
 Hi 👋, I am **Dipesh Adelkar** an enthusiastic and ambitious full stack developer. I specialise in Web Development, App Development and Design. I love to network, join new communities and add value ✨
