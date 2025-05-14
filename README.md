@@ -39,6 +39,7 @@ Hi 👋, I am **Dipesh Adelkar** an enthusiastic and ambitious full stack develo
 </details>
   
 </p>
+
   
 
 ## 🔥 Github Stats
@@ -47,6 +48,7 @@ Hi 👋, I am **Dipesh Adelkar** an enthusiastic and ambitious full stack develo
 
   <a href="https://github.com/x-darkvanilla-x"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=x-darkvanilla-x&theme=radical&title_color=ff3068?"></a>
   <a href="https://github.com/x-darkvanilla-x"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=x-darkvanilla-x&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+  <a href="https://github.com/x-darkvanilla-x"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&&theme=radical&title_color=ff3068?hide_progress=true"></a>
 
 ## 📘 My top open source projects
 
