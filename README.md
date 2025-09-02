@@ -11,21 +11,14 @@
 - 💬 Ask me about **open source, web development, and community management**  
 - 📫 Reach me at **dipesh.adelkar@gmail.com**  
 
----
 
 ## 🔥 GitHub Stats  
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=x-darkvanilla-x&theme=radical&title_color=ff3068&hide_border=false&include_all_commits=true&count_private=true" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="http://github-readme-streak-stats.herokuapp.com/?user=x-darkvanilla-x&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&hide_border=false" width="100%"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; gap: 10; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=x-darkvanilla-x&theme=radical&title_color=ff3068&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com/?user=x-darkvanilla-x&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068&hide_border=false" height="180px"/>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-darkvanilla-x&theme=radical&title_color=ff3068&layout=compact&hide_border=false" width="50%"/>
-</p>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-darkvanilla-x&theme=radical&title_color=ff3068&layout=compact&hide_border=false" height="180px"/>
+</div>
